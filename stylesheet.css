@@ -1,0 +1,18 @@
+h1 {
+
+    color: rgb(33, 33, 33);
+    font-size: 50px;
+    text-align: center;
+    background-color: floralwhite;
+
+}
+
+ul {
+
+    list-style-type: none;
+    margin: 100px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: rgb(178, 188, 135);
+    text-align: center;
+}
