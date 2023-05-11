@@ -4,11 +4,10 @@ h1 {
     font-size: 50px;
     text-align: center;
     background-color: floralwhite;
-
 }
 
 h2 {
-
+    margin: 100px;
     color: rgb(59, 56, 56);
     font-size: 30px;
     text-align: left;
@@ -34,6 +33,21 @@ img {
         display: block;
         margin-left: auto;
         margin-right: auto;
+
+
+}
+
+ol {  
+    
+    list-style-type: none;
+    margin-left:   100px;
+    margin-top: -100px;
+    margin-right: 100px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: rgb(178, 188, 135);
+    text-align: left;
+
 
 
 }
